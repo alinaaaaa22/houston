@@ -1,0 +1,25 @@
+body {
+    width: 70%;
+    margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", "Roboto", sans-serif;
+  }
+ h1 {
+    font-size: 32px;
+ }
+ 
+ table {
+    border: 1px solid black;
+ }
+figcaption {
+    font-style: italic;
+}
+
+figure {
+    float: right;
+    width: 30%;
+    text-align: left;
+
+}
